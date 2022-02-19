@@ -1,7 +1,7 @@
 
 <img src="https://cdn.discordapp.com/attachments/943784555565948948/944722851284521021/brave_cKGgkMcfSn.png" width="1500">
 
-#  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵    ឵឵    ឵឵  ឵឵  ឵឵  ឵឵ **fknMega**
+#  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵    ឵឵     **fknMega**
 
 ##  🐱‍💻Shit I made: 
 - [Discord Report Bot](https://github.com/fknMega/Discord-Report-Bot) - (C#) Spam any discord user with reports using the api
@@ -26,6 +26,3 @@
 - discord: [Mega#1234](https://discord.gg/crasher) <img src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png" width="23">
 
 - doxbin: [Invisible](https://doxbin.com/user/invisible)
-
-
-https://discord.com/api/guilds/930758828692230194/widget.json
