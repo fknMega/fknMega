@@ -10,6 +10,8 @@
 
 - [Discord Voice Crasher](https://cracked.io/Thread-Supreme-DISCORD-VOICE-CRASHER-CRASH-300-USERS-DISCORD-CLIENT-CRAZY) - (PYTHON & JS) Crash any discord voice easily
 
+- [Discord Group Leaver](https://github.com/fknMega/discord-groups-leaver) - (JS) Leave all your discord groups at once
+
 
 
 
