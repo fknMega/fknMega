@@ -2,7 +2,7 @@
 <img src="https://cdn.discordapp.com/attachments/943784555565948948/944722851284521021/brave_cKGgkMcfSn.png" width="1500">
 
 #  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵    ឵឵      **fknMega**
-  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵    ឵឵     ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵    ឵឵     ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵    ឵឵     ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵    ឵឵     ឵឵ ![mega stats](https://github-readme-stats.vercel.app/api?username=fknMega&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fknMega&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵    ឵឵     ឵឵   ឵឵  ឵឵  ឵឵  ឵឵   ឵឵     ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵    ឵឵     ឵឵ ![mega stats](https://github-readme-stats.vercel.app/api?username=fknMega&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fknMega&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 ##  🐱‍💻Shit I made: 
