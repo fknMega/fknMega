@@ -14,6 +14,8 @@
 
 - [Discord Group Leaver](https://github.com/fknMega/discord-groups-leaver) - (JS) Leave all your discord groups at once
 
+- [AnyDesk IP Grabber](https://github.com/fknMega/AnyDesk-IP-Grabber) - (C#) Get anyone's ip using anydesk
+
 
 
 
