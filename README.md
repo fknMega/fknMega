@@ -36,6 +36,6 @@
 - discord: [Mega#1234](https://discord.gg/crasher) <img src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png" width="23">
 
 - doxbin: [Invisible](https://doxbin.com/user/invisible)
-- 
+
   ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵    ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ![Discord Banner 1](https://discordapp.com/api/guilds/930758828692230194/widget.png?style=banner1)
  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=53nuy04w9gg8akba2l8s75jg7)
