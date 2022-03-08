@@ -1,6 +1,6 @@
 
 
-#  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵    ឵឵      **fknMega** ![](https://komarev.com/ghpvc/?username=fknMega&color=brightgreen)
+#  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵    ឵឵      **fknMega**
 
    ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵    ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵     ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵     ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵    ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵឵឵  ឵឵឵឵  ឵឵   ឵឵  ឵឵  ឵឵    ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=53nuy04w9gg8akba2l8s75jg7&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
@@ -39,4 +39,4 @@
 - doxbin: [Invisible](https://doxbin.com/user/invisible)
 
   ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵    ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  [![Discord Banner 1](https://discordapp.com/api/guilds/930758828692230194/widget.png?style=banner1)](https://discord.gg/crasher)
- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=53nuy04w9gg8akba2l8s75jg7)
+ ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=53nuy04w9gg8akba2l8s75jg7) ![](https://komarev.com/ghpvc/?username=fknMega&color=brightgreen&style=for-the-badge)
