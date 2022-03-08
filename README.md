@@ -37,5 +37,5 @@
 
 - doxbin: [Invisible](https://doxbin.com/user/invisible)
 
-  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵    ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ![Discord Banner 1](https://discordapp.com/api/guilds/930758828692230194/widget.png?style=banner1)
+  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵    ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  [![Discord Banner 1](https://discordapp.com/api/guilds/930758828692230194/widget.png?style=banner1)](https://discord.gg/crasher)
  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=53nuy04w9gg8akba2l8s75jg7)
