@@ -2,7 +2,6 @@
 
 #  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵    ឵឵      **fknMega**
 
-   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵    ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵     ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵     ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵    ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵឵឵  ឵឵឵឵  ឵឵   ឵឵  ឵឵  ឵឵    ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=53nuy04w9gg8akba2l8s75jg7&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
   ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ![mega stats](https://github-readme-stats.vercel.app/api?username=fknMega&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fknMega&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
   
@@ -40,4 +39,5 @@
 
   ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵    ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  [![Discord Banner 1](https://discordapp.com/api/guilds/930758828692230194/widget.png?style=banner1)](https://discord.gg/crasher)
  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=53nuy04w9gg8akba2l8s75jg7)    ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵   ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵   ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵ ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵ ឵឵  ឵឵ ![](https://komarev.com/ghpvc/?username=fknMega&color=brightgreen&style=for-the-badge)
+    ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵    ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵     ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵     ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵    ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵឵឵  ឵឵឵឵  ឵឵   ឵឵  ឵឵  ឵឵    ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=53nuy04w9gg8akba2l8s75jg7&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
