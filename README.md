@@ -33,7 +33,7 @@
 
 - youtube: [fknMega](https://www.youtube.com/channel/UC_ivJX9OJmJfr9EjqFxt5pQ) <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="22">
 
-- discord: [Mega#1234](https://discord.gg/crasher) <img src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png" width="23">
+- discord: [Mega#9999](https://discord.gg/crasher) <img src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png" width="23">
 
 - doxbin: [Invisible](https://doxbin.com/user/invisible)
 
