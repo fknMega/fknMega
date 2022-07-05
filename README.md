@@ -37,4 +37,4 @@
 
 - doxbin: [Invisible](https://doxbin.com/user/invisible)
 
-![](https://komarev.com/ghpvc/?username=fknMega&color=brightgreen&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=fknMega&color=brightgreen)
