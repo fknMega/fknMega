@@ -8,21 +8,11 @@
 
 
 
-##  🐱‍💻Shit I made: 
-- [Discord Report Bot](https://github.com/fknMega/Discord-Report-Bot) - (C#) Spam any discord user with reports using the api
-
-- [MineScript](https://github.com/fknMega/MineScript) - (JS) Grief & Gain OP in any cracked minecraft server
-
-- [Discord Voice Crasher](https://cracked.io/Thread-Supreme-DISCORD-VOICE-CRASHER-CRASH-300-USERS-DISCORD-CLIENT-CRAZY) - (PYTHON & JS) Crash any discord voice easily
-
-- [Discord Group Leaver](https://github.com/fknMega/discord-groups-leaver) - (JS) Leave all your discord groups at once
-
-- [AnyDesk IP Grabber](https://github.com/fknMega/AnyDesk-IP-Grabber) - (C#) Get anyone's ip using anydesk
 
 
 
 
-  ![line](https://cdn.discordapp.com/attachments/895632161057669180/930131378379554876/void_default_bar.PNG)
+
   
   
 ## 📶Social:
