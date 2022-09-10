@@ -25,6 +25,5 @@
 
 - discord: [Mega#1234](https://discord.gg/crasher) <img src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png" width="23">
 
-- doxbin: [Invisible](https://doxbin.com/user/invisible)
 
 ![](https://komarev.com/ghpvc/?username=fknMega&color=brightgreen)
