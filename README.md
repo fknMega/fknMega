@@ -3,17 +3,6 @@
 <h1 align="center">fknMega</h1>
 
 
-<p align="center">
-  
-  <a href="https://discord.com/users/976386331456450591">
-    <img src="https://discord-readme-badge.vercel.app/api?id=976386331456450591">
-  </a>
-</p>
-
-  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵ 
-
-
-
 
 
 
