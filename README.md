@@ -3,9 +3,14 @@
 <h1 align="center">fknMega</h1>
 
 
+<a href="https://github.com/fknMega/ReboundGuardian">
+<p align="center">
 
+<img src='https://i.ibb.co/H7GYcYL/Mega-Github-Readme.png' width='1000'>
+ </p>
 
-
+</a>
+<h1 align="center">^ My Newest Tool ^</h1>
 
   
   
@@ -17,7 +22,7 @@
 
 - youtube: [fknMega](https://www.youtube.com/channel/UC_ivJX9OJmJfr9EjqFxt5pQ) <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="22">
 
-- discord: [Mega#1234](https://discord.gg/crasher) <img src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png" width="23">
+- discord: [fknMega#1234](https://discord.gg/crasher) <img src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png" width="23">
 
 
 ![](https://komarev.com/ghpvc/?username=fknMega&color=brightgreen)
