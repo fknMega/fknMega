@@ -2,6 +2,8 @@
 
 <h1 align="center">fknMega</h1>
 
+> ** **
+
 ```java
 ┌──(root@MegaPC)-[~/]
 └─$ dotnet run
@@ -15,6 +17,8 @@ Console.WriteLine("Welcome ＼(((￣(￣(￣▽￣)￣)￣)))／");
 MessageBox.Show(social);
 
 ```
+
+
 
   <div align="center">
 
@@ -39,6 +43,7 @@ Console.WriteLine("ㄟ(≧◇≦)ㄏ");
 MessageBox.Show(stats);
 
 ```
+
 
   <div align="center">
 
