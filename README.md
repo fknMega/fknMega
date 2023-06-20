@@ -24,5 +24,6 @@
 
 - discord: [fknMega#1234](https://discord.gg/crasher) <img src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png" width="23">
 
+![fknMega's GitHub stats](https://github-readme-stats.vercel.app/api?username=fknMega&show_icons=true&theme=gruvbox)
 
 ![](https://komarev.com/ghpvc/?username=fknMega&color=brightgreen)
