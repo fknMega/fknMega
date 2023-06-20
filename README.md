@@ -27,6 +27,20 @@ instagram: [fknMega](https://www.instagram.com/fknmega/) <img src="https://www.c
 youtube: [fknMega](https://www.youtube.com/channel/UC_ivJX9OJmJfr9EjqFxt5pQ) <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="22">
 
 discord: [fknMega#1234](https://discord.gg/crasher) <img src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png" width="23">
+</div>
+
+
+> ** **
+```c#
+
+
+
+Console.WriteLine("ㄟ(≧◇≦)ㄏ");
+MessageBox.Show(stats);
+
+```
+
+  <div align="center">
 
  <p align="center">
 
@@ -35,9 +49,15 @@ discord: [fknMega#1234](https://discord.gg/crasher) <img src="https://seeklogo.c
 
 
 </p>
+
+</div>
+
+
+
+
  <p align="center">
 
-<img src='https://komarev.com/ghpvc/?username=fknMega&color=brightgreen' width='100'>
+<img src='https://komarev.com/ghpvc/?username=fknMega&color=brightgreen' width='150'>
 
 </p>
 
