@@ -50,13 +50,12 @@ MessageBox.Show(stats);
  <p align="center">
 
 
-<img src='https://github-readme-stats.vercel.app/api?username=fknMega&show_icons=true&theme=gruvbox' width='400'>
+<img src='https://github-readme-stats.vercel.app/api?username=fknMega&show_icons=true&theme=tokyonight' width='400'>
 
 
 </p>
 
 </div>
-
 
 
 
