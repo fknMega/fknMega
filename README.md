@@ -47,6 +47,16 @@ MessageBox.Show(stats);
 
   <div align="center">
 
+
+
+</div>
+
+<p align="center" >
+  <a href="https://github.com/fknMega/discord-tools">
+    <img src="https://raw.githubusercontent.com/fknMega/terminal/master/github_stats.svg" alt="Update Github Stats" title="Terminal Style GitHub Stats">
+  </a>
+</p>
+
  <p align="center">
 
 
@@ -54,10 +64,6 @@ MessageBox.Show(stats);
 
 
 </p>
-
-</div>
-
-
 
  <p align="center">
 
