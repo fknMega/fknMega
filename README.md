@@ -1,6 +1,6 @@
 
 
-<h1 align="center">fknMega</h1>
+<h1 align="center">☆⌒❁ fknMega ツ≦ㄏ</h1>
 
 > ** **
 
