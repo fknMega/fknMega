@@ -58,7 +58,6 @@ MessageBox.Show(stats);
 
 <p align="center" >
   <a href="https://github.com/fknMega/discord-tools" >
-    <img src="https://raw.githubusercontent.com/fknMega/terminal/master/github_stats.svg" alt="Update Github Stats" title="Terminal Style GitHub Stats" width='450' >
     <img src='https://github-readme-stats.vercel.app/api?username=fknMega&show_icons=true&theme=tokyonight&rank_icon=github' width='400'>
 
   </a>
